@@ -16,13 +16,6 @@
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdragonadd&label=Visitor+Count&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 
-![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue) 
-
-<p align="left">
-  <img src="https://m3-markdown-badges.vercel.app/stars/8/2/ddgksf2013/ddgksf2013" height="22">
-</p>
-
-
 > [!IMPORTANT]
 > [**由于fork和star的仓库比较多，找起来比较麻烦，正好在弄主页，把主页的内容定义为仓库寻找链接好了。(样式参考伟大的偶像/引路人"Cuttlefish ddgksf2013"**](https://github.com/dragonadd/dragonadd/issues)
 
