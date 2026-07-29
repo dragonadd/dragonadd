@@ -50,17 +50,17 @@
 	<th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr>
     <tr>
 		<td > 1</td> <td > GitHub介绍 </td>
-		<td ><a href="https://github.com/dragonadd/dragonadd"><em>GitHub</em></a></td>
+		<td ><a href="https://github.com/dragonadd/dragonadd"><em>dragonadd</em></a></td>
 		<td>dragonadd</td>
     </tr>
 	<tr>
 		<td > 1</td> <td > 自用导航 </td>
-		<td ><a href="https://github.com/dragonadd/nav1"><em>Misub</em></a></td>
+		<td ><a href="https://github.com/dragonadd/nav1"><em>nav</em></a></td>
 		<td>dragonadd</td>
     </tr>
 	<tr>
 		<td > 1</td> <td > GitHub图床 </td>
-		<td ><a href="https://github.com/dragonadd/images"><em>subs-check</em></a></td>
+		<td ><a href="https://github.com/dragonadd/images"><em>images</em></a></td>
 		<td>dragonadd</td>
     </tr>	
 </table>
