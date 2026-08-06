@@ -30,12 +30,12 @@
 		<td><a href="https://github.com/notionnext-org/NotionNext">Notionnext</a></td>
     </tr>
 	<tr>
-		<td > 1</td> <td > 自用订阅集合 </td>
+		<td > 2</td> <td > 自用订阅集合 </td>
 		<td ><a href="https://github.com/dragonadd/MiSub"><em>Misub</em></a></td>
 		<td><a href="https://github.com/imzyb/MiSub">Misub</a></td>
     </tr>
 	<tr>
-		<td > 1</td> <td > 自用订阅 </td>
+		<td > 3</td> <td > 自用订阅 </td>
 		<td ><a href="https://github.com/dragonadd/subs-check"><em>subs-check</em></a></td>
 		<td><a href="https://github.com/beck-8/subs-check">subs-check</a></td>
     </tr>	
@@ -54,13 +54,18 @@
 		<td>dragonadd</td>
     </tr>
 	<tr>
-		<td > 1</td> <td > 自用导航 </td>
+		<td > 2</td> <td > 自用导航 </td>
 		<td ><a href="https://github.com/dragonadd/nav1"><em>nav</em></a></td>
 		<td>dragonadd</td>
     </tr>
 	<tr>
-		<td > 1</td> <td > GitHub图床 </td>
+		<td > 3</td> <td > GitHub图床 </td>
 		<td ><a href="https://github.com/dragonadd/images"><em>images</em></a></td>
+		<td>dragonadd</td>
+    </tr>
+	<tr>
+		<td > 4</td> <td > 自用脚本 </td>
+		<td ><a href="https://github.com/dragonadd/Script"><em>Script</em></a></td>
 		<td>dragonadd</td>
     </tr>	
 </table>
@@ -72,8 +77,10 @@
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
 		<td rowspan="11"><strong>待定分类</strong></td>
-		<td > 1</td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://ddgksf2013.top/rewrite/BiliBiliAds.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
-    </tr>	
+		<td > 1</td> <td > 哔哩哔哩视频解析下载工具 </td>
+		<td ><a href="https://github.com/iuroc/bilidown"><em>Bilidown</em></a></td>
+		<td><a href="https://github.com/iuroc">iuroc</a></td>
+    </tr>
 </table>
 
 
