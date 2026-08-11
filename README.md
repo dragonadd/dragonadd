@@ -81,6 +81,11 @@
 		<td ><a href="https://github.com/iuroc/bilidown"><em>Bilidown</em></a></td>
 		<td><a href="https://github.com/iuroc">iuroc</a></td>
     </tr>
+	<tr>
+		<td > 1</td> <td > 节点检测 </td>
+		<td ><a href="https://github.com/sinspired/subs-check-pro-gui"><em>subscheck</em></a></td>
+		<td><a href="https://github.com/sinspired/subs-check-pro-gui">自己看</a></td>
+    </tr>
 </table>
 
 
