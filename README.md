@@ -36,8 +36,8 @@
     </tr>
 	<tr>
 		<td > 3</td> <td > 自用订阅 </td>
-		<td ><a href="https://github.com/dragonadd/subs-check"><em>subs-check</em></a></td>
-		<td><a href="https://github.com/beck-8/subs-check">subs-check</a></td>
+		<td ><a href="https://github.com/dragonadd/sub-unify"><em>subs-check</em></a></td>
+		<td><a href="https://github.com/cmliu/CF-Workers-SUB">subs-check</a></td>
     </tr>	
 </table>
 
