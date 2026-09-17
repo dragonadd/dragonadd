@@ -38,7 +38,12 @@
 		<td > 3</td> <td > 自用订阅 </td>
 		<td ><a href="https://github.com/dragonadd/sub-unify"><em>subs-check</em></a></td>
 		<td><a href="https://github.com/cmliu/CF-Workers-SUB">subs-check</a></td>
-    </tr>	
+    </tr>
+	<tr>
+		<td > 4 </td> <td > 自用订阅2 </td>
+		<td ><a href="https://github.com/dragonadd/CMsub"><em> CMsub </em></a></td>
+		<td><a href="https://github.com/cmliu/edgetunnel">edgetunnel 2.1</a></td>
+    </tr>
 </table>
 
 
