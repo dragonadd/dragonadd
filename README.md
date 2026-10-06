@@ -1,3 +1,4 @@
+
 [![Stars](https://img.shields.io/github/stars/dragonadd/dragonadd)](https://github.com/dragonadd/dragonadd/stargazers)
 [![Fork](https://img.shields.io/github/forks/dragonadd/dragonadd)](https://github.com/dragonadd/dragonadd/network/members)
 [![Commit](https://img.shields.io/github/commit-activity/m/dragonadd/dragonadd?label=Commits)](https://github.com/dragonadd/dragonadd/commits/master)
@@ -9,7 +10,7 @@
 # Hi there, I'm DragonAdd 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F775F4&center=true&random=true&width=435&lines=%E7%8E%AB%E7%91%B0%E4%BC%9A%E6%9C%89%E8%8A%B1%E6%9C%9F;%E7%88%B1%E4%BD%A0%E4%B8%8D%E5%88%86%E6%9C%9D%E5%A4%95;%E5%AE%9E%E8%BF%B7%E9%80%94%E5%85%B6%E6%9C%AA%E8%BF%9C%EF%BC%8C%E8%A7%89%E4%BB%8A%E6%98%AF%E8%80%8C%E6%98%A8%E9%9D%9E%E3%80%82;%E6%82%9F%E5%B7%B2%E5%BE%80%E4%B9%8B%E4%B8%8D%E8%B0%8F%EF%BC%8C%E7%9F%A5%E6%9D%A5%E8%80%85%E4%B9%8B%E5%8F%AF%E8%BF%BD%E3%80%82)](https://git.io/typing-svg)
 
-
+<img src="https://napneko.github.io/assets/newnewlogo.png" width = "305" height = "411" alt="NapCat" align=right />
 ## DragonAdd檔案 [Update on 2026-07-20](https://github.com/dragonadd/Rewrite)  
 ### 通知頻道 👉🏻[暂时没有](https://t.me/)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2026年7月5日-blue)
