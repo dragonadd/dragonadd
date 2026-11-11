@@ -27,7 +27,7 @@
 	<th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr>
     <tr>
 		<td > 1</td> <td > 自用博客 </td>
-		<td ><a href="https://github.com/dragonadd/Navblog"><em>dragonadd</em></a></td>
+		<td ><a href="https://github.com/dragonadd/Navblog"><em>Navblog</em></a></td>
 		<td><a href="https://github.com/dragonadd/Navblog">dragonadd</a></td>
     </tr>
 	<tr>
