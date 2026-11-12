@@ -33,7 +33,7 @@
     <tr>
 		<td > 2</td> <td > 自用博客 </td>
 		<td ><a href="https://github.com/dragonadd/Navblog"><em>Navblog</em></a></td>
-		<td><a href="https://github.com/dragonadd/Navblog">dragonadd</a></td>
+		<td>dragonadd</td>
     </tr>
 	<tr>
 		<td > 3</td> <td > 自用导航 </td>
