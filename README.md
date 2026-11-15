@@ -17,7 +17,7 @@
 
 
 > [!IMPORTANT]
-> [**由于fork和star的仓库比较多，找起来比较麻烦，正好在弄主页，把主页的内容定义为仓库寻找链接好了。(样式参考伟大的偶像/引路人"Cuttlefish ddgksf2013"**](https://github.com/dragonadd/dragonadd/issues)
+> [**由于fork和star的仓库比较多，找起来比较麻烦，正好在弄主页，把主页的内容定义为仓库寻找链接好了。(样式参考伟大的偶像/引路人"Cuttlefish ddgksf2013"**](https://github.com/dragonadd)
 <img src="https://github.com/dragonadd/picx-images-hosting/blob/master/blog/3d74c98f70c74463bc99c9a6cad0758b.jpeg" width = "305" height = "480" alt="NapCat" align=right />
 
 
